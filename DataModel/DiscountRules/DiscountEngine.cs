@@ -3,7 +3,7 @@ using System.Linq;
 using DataModel;
 using DataModel.DiscountRules;
 
-public class DiscountEngineCore
+public class DiscountEngineCore : IDiscountEngine
 {
     private readonly IDiscountRepository _discountRepo;
 

@@ -2,14 +2,15 @@
 using DataModel;
 using Microsoft.AspNetCore.Mvc;
 using System.Collections.Generic;
+using DataModel.DiscountRules;
 
 [ApiController]
 [Route("api/cart")]
 public class CartController : ControllerBase
 {
-    private readonly DiscountEngineCore _discountEngineCore;
+    private readonly IDiscountEngine _discountEngineCore;
 
-    public CartController(DiscountEngineCore discountEngineCore)
+    public CartController(IDiscountEngine discountEngineCore)
     {
         _discountEngineCore = discountEngineCore;
     }
