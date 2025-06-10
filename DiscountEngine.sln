@@ -1,11 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35931.197 d17.13
+VisualStudioVersion = 17.13.35931.197
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataModel", "DataModel\DataModel.csproj", "{2F6E3640-7F83-4EE7-91B4-1F11C80600EA}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiscountEngine", "DiscountEngine\DiscountEngine.csproj", "{B3D07723-666B-1B41-2EF7-F70BDFD63D23}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiscountEngine.Test", "DiscountEngineUnitTest\DiscountEngine.Test.csproj", "{B92C7FC9-2710-40F1-B876-948BCB208714}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,9 +25,16 @@ Global
 		{B3D07723-666B-1B41-2EF7-F70BDFD63D23}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B3D07723-666B-1B41-2EF7-F70BDFD63D23}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B3D07723-666B-1B41-2EF7-F70BDFD63D23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B92C7FC9-2710-40F1-B876-948BCB208714}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B92C7FC9-2710-40F1-B876-948BCB208714}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B92C7FC9-2710-40F1-B876-948BCB208714}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B92C7FC9-2710-40F1-B876-948BCB208714}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B92C7FC9-2710-40F1-B876-948BCB208714} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {AE381828-0145-42D9-8D08-6EFFE694E991}

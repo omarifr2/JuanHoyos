@@ -9,3 +9,4 @@ C:\Users\jfhhd\Source\Repos\DiscountEngine\DataModel\obj\Debug\net8.0\DataModel.
 C:\Users\jfhhd\Source\Repos\DiscountEngine\DataModel\obj\Debug\net8.0\refint\DataModel.dll
 C:\Users\jfhhd\Source\Repos\DiscountEngine\DataModel\obj\Debug\net8.0\DataModel.pdb
 C:\Users\jfhhd\Source\Repos\DiscountEngine\DataModel\obj\Debug\net8.0\ref\DataModel.dll
+C:\Users\jfhhd\Source\Repos\DiscountEngine\DataModel\obj\Debug\net8.0\DataModel.sourcelink.json

@@ -3,44 +3,104 @@
   "WorkspaceRootPath": "C:\\Users\\jfhhd\\Source\\Repos\\DiscountEngine\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B3D07723-666B-1B41-2EF7-F70BDFD63D23}|DiscountEngine\\DiscountEngine.csproj|c:\\users\\jfhhd\\source\\repos\\discountengine\\discountengine\\controllers\\discountenginecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3D07723-666B-1B41-2EF7-F70BDFD63D23}|DiscountEngine\\DiscountEngine.csproj|solutionrelative:discountengine\\controllers\\discountenginecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2F6E3640-7F83-4EE7-91B4-1F11C80600EA}|DataModel\\DataModel.csproj|c:\\users\\jfhhd\\source\\repos\\discountengine\\datamodel\\discountrules\\coupondiscountrules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2F6E3640-7F83-4EE7-91B4-1F11C80600EA}|DataModel\\DataModel.csproj|solutionrelative:datamodel\\discountrules\\coupondiscountrules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2F6E3640-7F83-4EE7-91B4-1F11C80600EA}|DataModel\\DataModel.csproj|c:\\users\\jfhhd\\source\\repos\\discountengine\\datamodel\\discountrules\\discountengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2F6E3640-7F83-4EE7-91B4-1F11C80600EA}|DataModel\\DataModel.csproj|solutionrelative:datamodel\\discountrules\\discountengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2F6E3640-7F83-4EE7-91B4-1F11C80600EA}|DataModel\\DataModel.csproj|c:\\users\\jfhhd\\source\\repos\\discountengine\\datamodel\\discountrules\\percentagediscountrules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2F6E3640-7F83-4EE7-91B4-1F11C80600EA}|DataModel\\DataModel.csproj|solutionrelative:datamodel\\discountrules\\percentagediscountrules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2F6E3640-7F83-4EE7-91B4-1F11C80600EA}|DataModel\\DataModel.csproj|c:\\users\\jfhhd\\source\\repos\\discountengine\\datamodel\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2F6E3640-7F83-4EE7-91B4-1F11C80600EA}|DataModel\\DataModel.csproj|solutionrelative:datamodel\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2F6E3640-7F83-4EE7-91B4-1F11C80600EA}|DataModel\\DataModel.csproj|c:\\users\\jfhhd\\source\\repos\\discountengine\\datamodel\\discountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2F6E3640-7F83-4EE7-91B4-1F11C80600EA}|DataModel\\DataModel.csproj|solutionrelative:datamodel\\discountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2F6E3640-7F83-4EE7-91B4-1F11C80600EA}|DataModel\\DataModel.csproj|c:\\users\\jfhhd\\source\\repos\\discountengine\\datamodel\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2F6E3640-7F83-4EE7-91B4-1F11C80600EA}|DataModel\\DataModel.csproj|solutionrelative:datamodel\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B3D07723-666B-1B41-2EF7-F70BDFD63D23}|DiscountEngine\\DiscountEngine.csproj|c:\\users\\jfhhd\\source\\repos\\discountengine\\discountengine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3D07723-666B-1B41-2EF7-F70BDFD63D23}|DiscountEngine\\DiscountEngine.csproj|solutionrelative:discountengine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B92C7FC9-2710-40F1-B876-948BCB208714}|DiscountEngineUnitTest\\DiscountEngine.Test.csproj|c:\\users\\jfhhd\\source\\repos\\discountengine\\discountengineunittest\\discountrules.test\\categorydiscountruletest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B92C7FC9-2710-40F1-B876-948BCB208714}|DiscountEngineUnitTest\\DiscountEngine.Test.csproj|solutionrelative:discountengineunittest\\discountrules.test\\categorydiscountruletest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2F6E3640-7F83-4EE7-91B4-1F11C80600EA}|DataModel\\DataModel.csproj|c:\\users\\jfhhd\\source\\repos\\discountengine\\datamodel\\discountrules\\categorydiscountrules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2F6E3640-7F83-4EE7-91B4-1F11C80600EA}|DataModel\\DataModel.csproj|solutionrelative:datamodel\\discountrules\\categorydiscountrules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{2F6E3640-7F83-4EE7-91B4-1F11C80600EA}|DataModel\\DataModel.csproj|c:\\users\\jfhhd\\source\\repos\\discountengine\\datamodel\\discountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F6E3640-7F83-4EE7-91B4-1F11C80600EA}|DataModel\\DataModel.csproj|solutionrelative:datamodel\\discountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F6E3640-7F83-4EE7-91B4-1F11C80600EA}|DataModel\\DataModel.csproj|c:\\users\\jfhhd\\source\\repos\\discountengine\\datamodel\\discountrules\\discountengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F6E3640-7F83-4EE7-91B4-1F11C80600EA}|DataModel\\DataModel.csproj|solutionrelative:datamodel\\discountrules\\discountengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B92C7FC9-2710-40F1-B876-948BCB208714}|DiscountEngineUnitTest\\DiscountEngine.Test.csproj|c:\\users\\jfhhd\\source\\repos\\discountengine\\discountengineunittest\\discountrepositorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B92C7FC9-2710-40F1-B876-948BCB208714}|DiscountEngineUnitTest\\DiscountEngine.Test.csproj|solutionrelative:discountengineunittest\\discountrepositorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2F6E3640-7F83-4EE7-91B4-1F11C80600EA}|DataModel\\DataModel.csproj|c:\\users\\jfhhd\\source\\repos\\discountengine\\datamodel\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2F6E3640-7F83-4EE7-91B4-1F11C80600EA}|DataModel\\DataModel.csproj|solutionrelative:datamodel\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B92C7FC9-2710-40F1-B876-948BCB208714}|DiscountEngineUnitTest\\DiscountEngine.Test.csproj|c:\\users\\jfhhd\\source\\repos\\discountengine\\discountengineunittest\\discountrules.test\\discountenginecoretest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B92C7FC9-2710-40F1-B876-948BCB208714}|DiscountEngineUnitTest\\DiscountEngine.Test.csproj|solutionrelative:discountengineunittest\\discountrules.test\\discountenginecoretest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B92C7FC9-2710-40F1-B876-948BCB208714}|DiscountEngineUnitTest\\DiscountEngine.Test.csproj|c:\\users\\jfhhd\\source\\repos\\discountengine\\discountengineunittest\\carttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B92C7FC9-2710-40F1-B876-948BCB208714}|DiscountEngineUnitTest\\DiscountEngine.Test.csproj|solutionrelative:discountengineunittest\\carttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F6E3640-7F83-4EE7-91B4-1F11C80600EA}|DataModel\\DataModel.csproj|c:\\users\\jfhhd\\source\\repos\\discountengine\\datamodel\\idiscountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F6E3640-7F83-4EE7-91B4-1F11C80600EA}|DataModel\\DataModel.csproj|solutionrelative:datamodel\\idiscountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B92C7FC9-2710-40F1-B876-948BCB208714}|DiscountEngineUnitTest\\DiscountEngine.Test.csproj|c:\\users\\jfhhd\\source\\repos\\discountengine\\discountengineunittest\\discountrules.test\\percentajediscountruletest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B92C7FC9-2710-40F1-B876-948BCB208714}|DiscountEngineUnitTest\\DiscountEngine.Test.csproj|solutionrelative:discountengineunittest\\discountrules.test\\percentajediscountruletest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F6E3640-7F83-4EE7-91B4-1F11C80600EA}|DataModel\\DataModel.csproj|c:\\users\\jfhhd\\source\\repos\\discountengine\\datamodel\\discountrules\\percentagediscountrules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F6E3640-7F83-4EE7-91B4-1F11C80600EA}|DataModel\\DataModel.csproj|solutionrelative:datamodel\\discountrules\\percentagediscountrules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B92C7FC9-2710-40F1-B876-948BCB208714}|DiscountEngineUnitTest\\DiscountEngine.Test.csproj|c:\\users\\jfhhd\\source\\repos\\discountengine\\discountengineunittest\\discountrules.test\\fixedamountdiscountruletest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B92C7FC9-2710-40F1-B876-948BCB208714}|DiscountEngineUnitTest\\DiscountEngine.Test.csproj|solutionrelative:discountengineunittest\\discountrules.test\\fixedamountdiscountruletest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F6E3640-7F83-4EE7-91B4-1F11C80600EA}|DataModel\\DataModel.csproj|c:\\users\\jfhhd\\source\\repos\\discountengine\\datamodel\\discountrules\\fixedamountdiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F6E3640-7F83-4EE7-91B4-1F11C80600EA}|DataModel\\DataModel.csproj|solutionrelative:datamodel\\discountrules\\fixedamountdiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F6E3640-7F83-4EE7-91B4-1F11C80600EA}|DataModel\\DataModel.csproj|c:\\users\\jfhhd\\source\\repos\\discountengine\\datamodel\\discountrules\\idiscountrules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F6E3640-7F83-4EE7-91B4-1F11C80600EA}|DataModel\\DataModel.csproj|solutionrelative:datamodel\\discountrules\\idiscountrules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B92C7FC9-2710-40F1-B876-948BCB208714}|DiscountEngineUnitTest\\DiscountEngine.Test.csproj|c:\\users\\jfhhd\\source\\repos\\discountengine\\discountengineunittest\\discountrules.test\\coupondiscountruletest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B92C7FC9-2710-40F1-B876-948BCB208714}|DiscountEngineUnitTest\\DiscountEngine.Test.csproj|solutionrelative:discountengineunittest\\discountrules.test\\coupondiscountruletest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F6E3640-7F83-4EE7-91B4-1F11C80600EA}|DataModel\\DataModel.csproj|c:\\users\\jfhhd\\source\\repos\\discountengine\\datamodel\\discountrules\\coupondiscountrules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F6E3640-7F83-4EE7-91B4-1F11C80600EA}|DataModel\\DataModel.csproj|solutionrelative:datamodel\\discountrules\\coupondiscountrules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B92C7FC9-2710-40F1-B876-948BCB208714}|DiscountEngineUnitTest\\DiscountEngine.Test.csproj|c:\\users\\jfhhd\\source\\repos\\discountengine\\discountengineunittest\\discountrules.test\\buyxgetyfreetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B92C7FC9-2710-40F1-B876-948BCB208714}|DiscountEngineUnitTest\\DiscountEngine.Test.csproj|solutionrelative:discountengineunittest\\discountrules.test\\buyxgetyfreetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F6E3640-7F83-4EE7-91B4-1F11C80600EA}|DataModel\\DataModel.csproj|c:\\users\\jfhhd\\source\\repos\\discountengine\\datamodel\\discountrules\\buyxgetyfree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F6E3640-7F83-4EE7-91B4-1F11C80600EA}|DataModel\\DataModel.csproj|solutionrelative:datamodel\\discountrules\\buyxgetyfree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B92C7FC9-2710-40F1-B876-948BCB208714}|DiscountEngineUnitTest\\DiscountEngine.Test.csproj|c:\\users\\jfhhd\\source\\repos\\discountengine\\discountengineunittest\\producttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B92C7FC9-2710-40F1-B876-948BCB208714}|DiscountEngineUnitTest\\DiscountEngine.Test.csproj|solutionrelative:discountengineunittest\\producttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F6E3640-7F83-4EE7-91B4-1F11C80600EA}|DataModel\\DataModel.csproj|c:\\users\\jfhhd\\source\\repos\\discountengine\\datamodel\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F6E3640-7F83-4EE7-91B4-1F11C80600EA}|DataModel\\DataModel.csproj|solutionrelative:datamodel\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F6E3640-7F83-4EE7-91B4-1F11C80600EA}|DataModel\\DataModel.csproj|c:\\users\\jfhhd\\source\\repos\\discountengine\\datamodel\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F6E3640-7F83-4EE7-91B4-1F11C80600EA}|DataModel\\DataModel.csproj|solutionrelative:datamodel\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B92C7FC9-2710-40F1-B876-948BCB208714}|DiscountEngineUnitTest\\DiscountEngine.Test.csproj|c:\\users\\jfhhd\\source\\repos\\discountengine\\discountengineunittest\\cartitemtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B92C7FC9-2710-40F1-B876-948BCB208714}|DiscountEngineUnitTest\\DiscountEngine.Test.csproj|solutionrelative:discountengineunittest\\cartitemtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B92C7FC9-2710-40F1-B876-948BCB208714}|DiscountEngineUnitTest\\DiscountEngine.Test.csproj|c:\\users\\jfhhd\\source\\repos\\discountengine\\discountengineunittest\\discountengine.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B92C7FC9-2710-40F1-B876-948BCB208714}|DiscountEngineUnitTest\\DiscountEngine.Test.csproj|solutionrelative:discountengineunittest\\discountengine.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D07723-666B-1B41-2EF7-F70BDFD63D23}|DiscountEngine\\DiscountEngine.csproj|c:\\users\\jfhhd\\source\\repos\\discountengine\\discountengine\\controllers\\discountenginecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3D07723-666B-1B41-2EF7-F70BDFD63D23}|DiscountEngine\\DiscountEngine.csproj|solutionrelative:discountengine\\controllers\\discountenginecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D07723-666B-1B41-2EF7-F70BDFD63D23}|DiscountEngine\\DiscountEngine.csproj|c:\\users\\jfhhd\\source\\repos\\discountengine\\discountengine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3D07723-666B-1B41-2EF7-F70BDFD63D23}|DiscountEngine\\DiscountEngine.csproj|solutionrelative:discountengine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B3D07723-666B-1B41-2EF7-F70BDFD63D23}|DiscountEngine\\DiscountEngine.csproj|c:\\users\\jfhhd\\source\\repos\\discountengine\\discountengine\\discountengine.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -53,18 +113,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{2F6E3640-7F83-4EE7-91B4-1F11C80600EA}|DataModel\\DataModel.csproj|c:\\users\\jfhhd\\source\\repos\\discountengine\\datamodel\\dto\\discountdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2F6E3640-7F83-4EE7-91B4-1F11C80600EA}|DataModel\\DataModel.csproj|solutionrelative:datamodel\\dto\\discountdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2F6E3640-7F83-4EE7-91B4-1F11C80600EA}|DataModel\\DataModel.csproj|c:\\users\\jfhhd\\source\\repos\\discountengine\\datamodel\\discountrules\\fixedamountdiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2F6E3640-7F83-4EE7-91B4-1F11C80600EA}|DataModel\\DataModel.csproj|solutionrelative:datamodel\\discountrules\\fixedamountdiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2F6E3640-7F83-4EE7-91B4-1F11C80600EA}|DataModel\\DataModel.csproj|c:\\users\\jfhhd\\source\\repos\\discountengine\\datamodel\\discountrules\\buyxgetyfree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2F6E3640-7F83-4EE7-91B4-1F11C80600EA}|DataModel\\DataModel.csproj|solutionrelative:datamodel\\discountrules\\buyxgetyfree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2F6E3640-7F83-4EE7-91B4-1F11C80600EA}|DataModel\\DataModel.csproj|c:\\users\\jfhhd\\source\\repos\\discountengine\\datamodel\\discountrules\\idiscountrules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2F6E3640-7F83-4EE7-91B4-1F11C80600EA}|DataModel\\DataModel.csproj|solutionrelative:datamodel\\discountrules\\idiscountrules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -74,210 +122,167 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\jfhhd\\Source\\Repos\\DiscountEngine\\DiscountEngine\\Program.cs",
-              "RelativeDocumentMoniker": "DiscountEngine\\Program.cs",
-              "ToolTip": "C:\\Users\\jfhhd\\Source\\Repos\\DiscountEngine\\DiscountEngine\\Program.cs",
-              "RelativeToolTip": "DiscountEngine\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T03:53:27.742Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "DiscountEngine.cs",
-              "DocumentMoniker": "C:\\Users\\jfhhd\\Source\\Repos\\DiscountEngine\\DataModel\\DiscountRules\\DiscountEngine.cs",
-              "RelativeDocumentMoniker": "DataModel\\DiscountRules\\DiscountEngine.cs",
-              "ToolTip": "C:\\Users\\jfhhd\\Source\\Repos\\DiscountEngine\\DataModel\\DiscountRules\\DiscountEngine.cs",
-              "RelativeToolTip": "DataModel\\DiscountRules\\DiscountEngine.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAIA/wBQAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T03:40:52.805Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "DiscountEngineController.cs",
-              "DocumentMoniker": "C:\\Users\\jfhhd\\Source\\Repos\\DiscountEngine\\DiscountEngine\\Controllers\\DiscountEngineController.cs",
-              "RelativeDocumentMoniker": "DiscountEngine\\Controllers\\DiscountEngineController.cs",
-              "ToolTip": "C:\\Users\\jfhhd\\Source\\Repos\\DiscountEngine\\DiscountEngine\\Controllers\\DiscountEngineController.cs",
-              "RelativeToolTip": "DiscountEngine\\Controllers\\DiscountEngineController.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAkwDAAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T03:56:12.447Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\jfhhd\\Source\\Repos\\DiscountEngine\\DataModel\\Product.cs",
-              "RelativeDocumentMoniker": "DataModel\\Product.cs",
-              "ToolTip": "C:\\Users\\jfhhd\\Source\\Repos\\DiscountEngine\\DataModel\\Product.cs",
-              "RelativeToolTip": "DataModel\\Product.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T22:14:29.309Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CouponDiscountRules.cs",
-              "DocumentMoniker": "C:\\Users\\jfhhd\\Source\\Repos\\DiscountEngine\\DataModel\\DiscountRules\\CouponDiscountRules.cs",
-              "RelativeDocumentMoniker": "DataModel\\DiscountRules\\CouponDiscountRules.cs",
-              "ToolTip": "C:\\Users\\jfhhd\\Source\\Repos\\DiscountEngine\\DataModel\\DiscountRules\\CouponDiscountRules.cs",
-              "RelativeToolTip": "DataModel\\DiscountRules\\CouponDiscountRules.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T03:42:30.422Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Cart.cs",
-              "DocumentMoniker": "C:\\Users\\jfhhd\\Source\\Repos\\DiscountEngine\\DataModel\\Cart.cs",
-              "RelativeDocumentMoniker": "DataModel\\Cart.cs",
-              "ToolTip": "C:\\Users\\jfhhd\\Source\\Repos\\DiscountEngine\\DataModel\\Cart.cs",
-              "RelativeToolTip": "DataModel\\Cart.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAIAwwBkAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T22:17:25.166Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "PercentageDiscountRules.cs",
-              "DocumentMoniker": "C:\\Users\\jfhhd\\Source\\Repos\\DiscountEngine\\DataModel\\DiscountRules\\PercentageDiscountRules.cs",
-              "RelativeDocumentMoniker": "DataModel\\DiscountRules\\PercentageDiscountRules.cs",
-              "ToolTip": "C:\\Users\\jfhhd\\Source\\Repos\\DiscountEngine\\DataModel\\DiscountRules\\PercentageDiscountRules.cs",
-              "RelativeToolTip": "DataModel\\DiscountRules\\PercentageDiscountRules.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAACIAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T03:46:25.04Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "DiscountRepository.cs",
               "DocumentMoniker": "C:\\Users\\jfhhd\\Source\\Repos\\DiscountEngine\\DataModel\\DiscountRepository.cs",
               "RelativeDocumentMoniker": "DataModel\\DiscountRepository.cs",
               "ToolTip": "C:\\Users\\jfhhd\\Source\\Repos\\DiscountEngine\\DataModel\\DiscountRepository.cs",
               "RelativeToolTip": "DataModel\\DiscountRepository.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-10T04:19:26.353Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "DiscountEngine",
-              "DocumentMoniker": "C:\\Users\\jfhhd\\Source\\Repos\\DiscountEngine\\DiscountEngine\\DiscountEngine.csproj",
-              "RelativeDocumentMoniker": "DiscountEngine\\DiscountEngine.csproj",
-              "ToolTip": "C:\\Users\\jfhhd\\Source\\Repos\\DiscountEngine\\DiscountEngine\\DiscountEngine.csproj",
-              "RelativeToolTip": "DiscountEngine\\DiscountEngine.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-10T04:20:32.965Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "CategoryDiscountRules.cs",
-              "DocumentMoniker": "C:\\Users\\jfhhd\\Source\\Repos\\DiscountEngine\\DataModel\\DiscountRules\\CategoryDiscountRules.cs",
-              "RelativeDocumentMoniker": "DataModel\\DiscountRules\\CategoryDiscountRules.cs",
-              "ToolTip": "C:\\Users\\jfhhd\\Source\\Repos\\DiscountEngine\\DataModel\\DiscountRules\\CategoryDiscountRules.cs",
-              "RelativeToolTip": "DataModel\\DiscountRules\\CategoryDiscountRules.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "DiscountRepositoryTest.cs",
+              "DocumentMoniker": "C:\\Users\\jfhhd\\Source\\Repos\\DiscountEngine\\DiscountEngineUnitTest\\DiscountRepositoryTest.cs",
+              "RelativeDocumentMoniker": "DiscountEngineUnitTest\\DiscountRepositoryTest.cs",
+              "ToolTip": "C:\\Users\\jfhhd\\Source\\Repos\\DiscountEngine\\DiscountEngineUnitTest\\DiscountRepositoryTest.cs",
+              "RelativeToolTip": "DiscountEngineUnitTest\\DiscountRepositoryTest.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAAAEcAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T04:39:00.41Z",
+              "WhenOpened": "2025-06-10T21:21:03.671Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 0,
+              "Title": "CategoryDiscountRuleTest.cs",
+              "DocumentMoniker": "C:\\Users\\jfhhd\\Source\\Repos\\DiscountEngine\\DiscountEngineUnitTest\\DiscountRules.Test\\CategoryDiscountRuleTest.cs",
+              "RelativeDocumentMoniker": "DiscountEngineUnitTest\\DiscountRules.Test\\CategoryDiscountRuleTest.cs",
+              "ToolTip": "C:\\Users\\jfhhd\\Source\\Repos\\DiscountEngine\\DiscountEngineUnitTest\\DiscountRules.Test\\CategoryDiscountRuleTest.cs",
+              "RelativeToolTip": "DiscountEngineUnitTest\\DiscountRules.Test\\CategoryDiscountRuleTest.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAB0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T21:27:05.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "CartItem.cs",
               "DocumentMoniker": "C:\\Users\\jfhhd\\Source\\Repos\\DiscountEngine\\DataModel\\CartItem.cs",
               "RelativeDocumentMoniker": "DataModel\\CartItem.cs",
               "ToolTip": "C:\\Users\\jfhhd\\Source\\Repos\\DiscountEngine\\DataModel\\CartItem.cs",
               "RelativeToolTip": "DataModel\\CartItem.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-09T22:15:50.905Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\jfhhd\\Source\\Repos\\DiscountEngine\\DiscountEngine\\appsettings.json",
-              "RelativeDocumentMoniker": "DiscountEngine\\appsettings.json",
-              "ToolTip": "C:\\Users\\jfhhd\\Source\\Repos\\DiscountEngine\\DiscountEngine\\appsettings.json",
-              "RelativeToolTip": "DiscountEngine\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-10T04:00:15.791Z",
+              "DocumentIndex": 3,
+              "Title": "DiscountEngine.cs",
+              "DocumentMoniker": "C:\\Users\\jfhhd\\Source\\Repos\\DiscountEngine\\DataModel\\DiscountRules\\DiscountEngine.cs",
+              "RelativeDocumentMoniker": "DataModel\\DiscountRules\\DiscountEngine.cs",
+              "ToolTip": "C:\\Users\\jfhhd\\Source\\Repos\\DiscountEngine\\DataModel\\DiscountRules\\DiscountEngine.cs",
+              "RelativeToolTip": "DataModel\\DiscountRules\\DiscountEngine.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T03:40:52.805Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "DiscountDetails.cs",
-              "DocumentMoniker": "C:\\Users\\jfhhd\\Source\\Repos\\DiscountEngine\\DataModel\\DTO\\DiscountDetails.cs",
-              "RelativeDocumentMoniker": "DataModel\\DTO\\DiscountDetails.cs",
-              "ToolTip": "C:\\Users\\jfhhd\\Source\\Repos\\DiscountEngine\\DataModel\\DTO\\DiscountDetails.cs",
-              "RelativeToolTip": "DataModel\\DTO\\DiscountDetails.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "CategoryDiscountRules.cs",
+              "DocumentMoniker": "C:\\Users\\jfhhd\\Source\\Repos\\DiscountEngine\\DataModel\\DiscountRules\\CategoryDiscountRules.cs",
+              "RelativeDocumentMoniker": "DataModel\\DiscountRules\\CategoryDiscountRules.cs",
+              "ToolTip": "C:\\Users\\jfhhd\\Source\\Repos\\DiscountEngine\\DataModel\\DiscountRules\\CategoryDiscountRules.cs",
+              "RelativeToolTip": "DataModel\\DiscountRules\\CategoryDiscountRules.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAD4vxUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T04:18:41.802Z",
+              "WhenOpened": "2025-06-10T04:39:00.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DiscountEngineCoreTest.cs",
+              "DocumentMoniker": "C:\\Users\\jfhhd\\Source\\Repos\\DiscountEngine\\DiscountEngineUnitTest\\DiscountRules.Test\\DiscountEngineCoreTest.cs",
+              "RelativeDocumentMoniker": "DiscountEngineUnitTest\\DiscountRules.Test\\DiscountEngineCoreTest.cs",
+              "ToolTip": "C:\\Users\\jfhhd\\Source\\Repos\\DiscountEngine\\DiscountEngineUnitTest\\DiscountRules.Test\\DiscountEngineCoreTest.cs",
+              "RelativeToolTip": "DiscountEngineUnitTest\\DiscountRules.Test\\DiscountEngineCoreTest.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAAD8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T21:37:19.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CartTest.cs",
+              "DocumentMoniker": "C:\\Users\\jfhhd\\Source\\Repos\\DiscountEngine\\DiscountEngineUnitTest\\CartTest.cs",
+              "RelativeDocumentMoniker": "DiscountEngineUnitTest\\CartTest.cs",
+              "ToolTip": "C:\\Users\\jfhhd\\Source\\Repos\\DiscountEngine\\DiscountEngineUnitTest\\CartTest.cs",
+              "RelativeToolTip": "DiscountEngineUnitTest\\CartTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T21:09:43.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IDiscountRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jfhhd\\Source\\Repos\\DiscountEngine\\DataModel\\IDiscountRepository.cs",
+              "RelativeDocumentMoniker": "DataModel\\IDiscountRepository.cs",
+              "ToolTip": "C:\\Users\\jfhhd\\Source\\Repos\\DiscountEngine\\DataModel\\IDiscountRepository.cs",
+              "RelativeToolTip": "DataModel\\IDiscountRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T21:36:43.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PercentajeDiscountRuleTest.cs",
+              "DocumentMoniker": "C:\\Users\\jfhhd\\Source\\Repos\\DiscountEngine\\DiscountEngineUnitTest\\DiscountRules.Test\\PercentajeDiscountRuleTest.cs",
+              "RelativeDocumentMoniker": "DiscountEngineUnitTest\\DiscountRules.Test\\PercentajeDiscountRuleTest.cs",
+              "ToolTip": "C:\\Users\\jfhhd\\Source\\Repos\\DiscountEngine\\DiscountEngineUnitTest\\DiscountRules.Test\\PercentajeDiscountRuleTest.cs",
+              "RelativeToolTip": "DiscountEngineUnitTest\\DiscountRules.Test\\PercentajeDiscountRuleTest.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAAD4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T21:34:16.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PercentageDiscountRules.cs",
+              "DocumentMoniker": "C:\\Users\\jfhhd\\Source\\Repos\\DiscountEngine\\DataModel\\DiscountRules\\PercentageDiscountRules.cs",
+              "RelativeDocumentMoniker": "DataModel\\DiscountRules\\PercentageDiscountRules.cs",
+              "ToolTip": "C:\\Users\\jfhhd\\Source\\Repos\\DiscountEngine\\DataModel\\DiscountRules\\PercentageDiscountRules.cs",
+              "RelativeToolTip": "DataModel\\DiscountRules\\PercentageDiscountRules.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T03:46:25.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FixedAmountDiscountRuleTest.cs",
+              "DocumentMoniker": "C:\\Users\\jfhhd\\Source\\Repos\\DiscountEngine\\DiscountEngineUnitTest\\DiscountRules.Test\\FixedAmountDiscountRuleTest.cs",
+              "RelativeDocumentMoniker": "DiscountEngineUnitTest\\DiscountRules.Test\\FixedAmountDiscountRuleTest.cs",
+              "ToolTip": "C:\\Users\\jfhhd\\Source\\Repos\\DiscountEngine\\DiscountEngineUnitTest\\DiscountRules.Test\\FixedAmountDiscountRuleTest.cs",
+              "RelativeToolTip": "DiscountEngineUnitTest\\DiscountRules.Test\\FixedAmountDiscountRuleTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T21:31:31.295Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "FixedAmountDiscount.cs",
-              "DocumentMoniker": "C:\\Users\\jfhhd\\Source\\Repos\\DiscountEngine\\DataModel\\DiscountRules\\FixedAmountDiscount.cs",
-              "RelativeDocumentMoniker": "DataModel\\DiscountRules\\FixedAmountDiscount.cs",
-              "ToolTip": "C:\\Users\\jfhhd\\Source\\Repos\\DiscountEngine\\DataModel\\DiscountRules\\FixedAmountDiscount.cs",
-              "RelativeToolTip": "DataModel\\DiscountRules\\FixedAmountDiscount.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T03:47:22.567Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "BuyXGetYFree.cs",
-              "DocumentMoniker": "C:\\Users\\jfhhd\\Source\\Repos\\DiscountEngine\\DataModel\\DiscountRules\\BuyXGetYFree.cs",
-              "RelativeDocumentMoniker": "DataModel\\DiscountRules\\BuyXGetYFree.cs",
-              "ToolTip": "C:\\Users\\jfhhd\\Source\\Repos\\DiscountEngine\\DataModel\\DiscountRules\\BuyXGetYFree.cs",
-              "RelativeToolTip": "DataModel\\DiscountRules\\BuyXGetYFree.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAAABUAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T03:45:24.172Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
               "Title": "IDiscountRules.cs",
               "DocumentMoniker": "C:\\Users\\jfhhd\\Source\\Repos\\DiscountEngine\\DataModel\\DiscountRules\\IDiscountRules.cs",
               "RelativeDocumentMoniker": "DataModel\\DiscountRules\\IDiscountRules.cs",
@@ -287,6 +292,201 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-09T22:26:54.899Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CouponDiscountRuleTest.cs",
+              "DocumentMoniker": "C:\\Users\\jfhhd\\Source\\Repos\\DiscountEngine\\DiscountEngineUnitTest\\DiscountRules.Test\\CouponDiscountRuleTest.cs",
+              "RelativeDocumentMoniker": "DiscountEngineUnitTest\\DiscountRules.Test\\CouponDiscountRuleTest.cs",
+              "ToolTip": "C:\\Users\\jfhhd\\Source\\Repos\\DiscountEngine\\DiscountEngineUnitTest\\DiscountRules.Test\\CouponDiscountRuleTest.cs",
+              "RelativeToolTip": "DiscountEngineUnitTest\\DiscountRules.Test\\CouponDiscountRuleTest.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAmwDgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T21:28:54.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FixedAmountDiscount.cs",
+              "DocumentMoniker": "C:\\Users\\jfhhd\\Source\\Repos\\DiscountEngine\\DataModel\\DiscountRules\\FixedAmountDiscount.cs",
+              "RelativeDocumentMoniker": "DataModel\\DiscountRules\\FixedAmountDiscount.cs",
+              "ToolTip": "C:\\Users\\jfhhd\\Source\\Repos\\DiscountEngine\\DataModel\\DiscountRules\\FixedAmountDiscount.cs",
+              "RelativeToolTip": "DataModel\\DiscountRules\\FixedAmountDiscount.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T03:47:22.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CouponDiscountRules.cs",
+              "DocumentMoniker": "C:\\Users\\jfhhd\\Source\\Repos\\DiscountEngine\\DataModel\\DiscountRules\\CouponDiscountRules.cs",
+              "RelativeDocumentMoniker": "DataModel\\DiscountRules\\CouponDiscountRules.cs",
+              "ToolTip": "C:\\Users\\jfhhd\\Source\\Repos\\DiscountEngine\\DataModel\\DiscountRules\\CouponDiscountRules.cs",
+              "RelativeToolTip": "DataModel\\DiscountRules\\CouponDiscountRules.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA2wBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T03:42:30.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BuyXGetYFreeTest.cs",
+              "DocumentMoniker": "C:\\Users\\jfhhd\\Source\\Repos\\DiscountEngine\\DiscountEngineUnitTest\\DiscountRules.Test\\BuyXGetYFreeTest.cs",
+              "RelativeDocumentMoniker": "DiscountEngineUnitTest\\DiscountRules.Test\\BuyXGetYFreeTest.cs",
+              "ToolTip": "C:\\Users\\jfhhd\\Source\\Repos\\DiscountEngine\\DiscountEngineUnitTest\\DiscountRules.Test\\BuyXGetYFreeTest.cs",
+              "RelativeToolTip": "DiscountEngineUnitTest\\DiscountRules.Test\\BuyXGetYFreeTest.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAADgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T21:24:55.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProductTest.cs",
+              "DocumentMoniker": "C:\\Users\\jfhhd\\Source\\Repos\\DiscountEngine\\DiscountEngineUnitTest\\ProductTest.cs",
+              "RelativeDocumentMoniker": "DiscountEngineUnitTest\\ProductTest.cs",
+              "ToolTip": "C:\\Users\\jfhhd\\Source\\Repos\\DiscountEngine\\DiscountEngineUnitTest\\ProductTest.cs",
+              "RelativeToolTip": "DiscountEngineUnitTest\\ProductTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T21:18:06.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\jfhhd\\Source\\Repos\\DiscountEngine\\DataModel\\Product.cs",
+              "RelativeDocumentMoniker": "DataModel\\Product.cs",
+              "ToolTip": "C:\\Users\\jfhhd\\Source\\Repos\\DiscountEngine\\DataModel\\Product.cs",
+              "RelativeToolTip": "DataModel\\Product.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvxIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T22:14:29.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CartItemTest.cs",
+              "DocumentMoniker": "C:\\Users\\jfhhd\\Source\\Repos\\DiscountEngine\\DiscountEngineUnitTest\\CartItemTest.cs",
+              "RelativeDocumentMoniker": "DiscountEngineUnitTest\\CartItemTest.cs",
+              "ToolTip": "C:\\Users\\jfhhd\\Source\\Repos\\DiscountEngine\\DiscountEngineUnitTest\\CartItemTest.cs",
+              "RelativeToolTip": "DiscountEngineUnitTest\\CartItemTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T21:16:44.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DiscountEngine.Test.csproj",
+              "DocumentMoniker": "C:\\Users\\jfhhd\\Source\\Repos\\DiscountEngine\\DiscountEngineUnitTest\\DiscountEngine.Test.csproj",
+              "RelativeDocumentMoniker": "DiscountEngineUnitTest\\DiscountEngine.Test.csproj",
+              "ToolTip": "C:\\Users\\jfhhd\\Source\\Repos\\DiscountEngine\\DiscountEngineUnitTest\\DiscountEngine.Test.csproj",
+              "RelativeToolTip": "DiscountEngineUnitTest\\DiscountEngine.Test.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-10T21:04:00.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BuyXGetYFree.cs",
+              "DocumentMoniker": "C:\\Users\\jfhhd\\Source\\Repos\\DiscountEngine\\DataModel\\DiscountRules\\BuyXGetYFree.cs",
+              "RelativeDocumentMoniker": "DataModel\\DiscountRules\\BuyXGetYFree.cs",
+              "ToolTip": "C:\\Users\\jfhhd\\Source\\Repos\\DiscountEngine\\DataModel\\DiscountRules\\BuyXGetYFree.cs",
+              "RelativeToolTip": "DataModel\\DiscountRules\\BuyXGetYFree.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA4wBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T03:45:24.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DiscountEngineController.cs",
+              "DocumentMoniker": "C:\\Users\\jfhhd\\Source\\Repos\\DiscountEngine\\DiscountEngine\\Controllers\\DiscountEngineController.cs",
+              "RelativeDocumentMoniker": "DiscountEngine\\Controllers\\DiscountEngineController.cs",
+              "ToolTip": "C:\\Users\\jfhhd\\Source\\Repos\\DiscountEngine\\DiscountEngine\\Controllers\\DiscountEngineController.cs",
+              "RelativeToolTip": "DiscountEngine\\Controllers\\DiscountEngineController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T03:56:12.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\jfhhd\\Source\\Repos\\DiscountEngine\\DataModel\\Cart.cs",
+              "RelativeDocumentMoniker": "DataModel\\Cart.cs",
+              "ToolTip": "C:\\Users\\jfhhd\\Source\\Repos\\DiscountEngine\\DataModel\\Cart.cs",
+              "RelativeToolTip": "DataModel\\Cart.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA2wBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T22:17:25.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jfhhd\\Source\\Repos\\DiscountEngine\\DiscountEngine\\Program.cs",
+              "RelativeDocumentMoniker": "DiscountEngine\\Program.cs",
+              "ToolTip": "C:\\Users\\jfhhd\\Source\\Repos\\DiscountEngine\\DiscountEngine\\Program.cs",
+              "RelativeToolTip": "DiscountEngine\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T03:53:27.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DiscountEngine.csproj",
+              "DocumentMoniker": "C:\\Users\\jfhhd\\Source\\Repos\\DiscountEngine\\DiscountEngine\\DiscountEngine.csproj",
+              "RelativeDocumentMoniker": "DiscountEngine\\DiscountEngine.csproj",
+              "ToolTip": "C:\\Users\\jfhhd\\Source\\Repos\\DiscountEngine\\DiscountEngine\\DiscountEngine.csproj",
+              "RelativeToolTip": "DiscountEngine\\DiscountEngine.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-10T04:20:32.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\jfhhd\\Source\\Repos\\DiscountEngine\\DiscountEngine\\appsettings.json",
+              "RelativeDocumentMoniker": "DiscountEngine\\appsettings.json",
+              "ToolTip": "C:\\Users\\jfhhd\\Source\\Repos\\DiscountEngine\\DiscountEngine\\appsettings.json",
+              "RelativeToolTip": "DiscountEngine\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-10T04:00:15.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "DiscountDetails.cs",
+              "DocumentMoniker": "C:\\Users\\jfhhd\\Source\\Repos\\DiscountEngine\\DataModel\\DTO\\DiscountDetails.cs",
+              "RelativeDocumentMoniker": "DataModel\\DTO\\DiscountDetails.cs",
+              "ToolTip": "C:\\Users\\jfhhd\\Source\\Repos\\DiscountEngine\\DataModel\\DTO\\DiscountDetails.cs",
+              "RelativeToolTip": "DataModel\\DTO\\DiscountDetails.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T04:18:41.802Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

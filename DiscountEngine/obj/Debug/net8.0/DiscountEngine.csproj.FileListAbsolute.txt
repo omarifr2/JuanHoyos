@@ -36,3 +36,4 @@ C:\Users\jfhhd\Source\Repos\DiscountEngine\DiscountEngine\obj\Debug\net8.0\refin
 C:\Users\jfhhd\Source\Repos\DiscountEngine\DiscountEngine\obj\Debug\net8.0\DiscountEngine.pdb
 C:\Users\jfhhd\Source\Repos\DiscountEngine\DiscountEngine\obj\Debug\net8.0\DiscountEngine.genruntimeconfig.cache
 C:\Users\jfhhd\Source\Repos\DiscountEngine\DiscountEngine\obj\Debug\net8.0\ref\DiscountEngine.dll
+C:\Users\jfhhd\Source\Repos\DiscountEngine\DiscountEngine\obj\Debug\net8.0\DiscountEngine.sourcelink.json

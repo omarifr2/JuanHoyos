@@ -1,15 +1,11 @@
-﻿using DataModel.DiscountRules;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Collections.Generic;
+using DataModel.DiscountRules;
 
 namespace DataModel
 {
-    public class DiscountRepository
+    public class DiscountRepository : IDiscountRepository
     {
-        private List<IDiscountRule> _discounts = new List<IDiscountRule>();
+        private readonly List<IDiscountRule> _discounts = new List<IDiscountRule>();
 
         public void AddDiscount(IDiscountRule discount)
         {
