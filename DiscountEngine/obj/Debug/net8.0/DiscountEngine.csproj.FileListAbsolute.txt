@@ -17,8 +17,6 @@ C:\Users\jfhhd\Source\Repos\DiscountEngine\DiscountEngine\bin\Debug\net8.0\Micro
 C:\Users\jfhhd\Source\Repos\DiscountEngine\DiscountEngine\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\jfhhd\Source\Repos\DiscountEngine\DiscountEngine\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\jfhhd\Source\Repos\DiscountEngine\DiscountEngine\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\jfhhd\Source\Repos\DiscountEngine\DiscountEngine\bin\Debug\net8.0\DataModel.dll
-C:\Users\jfhhd\Source\Repos\DiscountEngine\DiscountEngine\bin\Debug\net8.0\DataModel.pdb
 C:\Users\jfhhd\Source\Repos\DiscountEngine\DiscountEngine\obj\Debug\net8.0\scopedcss\bundle\DiscountEngine.styles.css
 C:\Users\jfhhd\Source\Repos\DiscountEngine\DiscountEngine\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\jfhhd\Source\Repos\DiscountEngine\DiscountEngine\obj\Debug\net8.0\staticwebassets.development.json
@@ -37,3 +35,7 @@ C:\Users\jfhhd\Source\Repos\DiscountEngine\DiscountEngine\obj\Debug\net8.0\Disco
 C:\Users\jfhhd\Source\Repos\DiscountEngine\DiscountEngine\obj\Debug\net8.0\DiscountEngine.genruntimeconfig.cache
 C:\Users\jfhhd\Source\Repos\DiscountEngine\DiscountEngine\obj\Debug\net8.0\ref\DiscountEngine.dll
 C:\Users\jfhhd\Source\Repos\DiscountEngine\DiscountEngine\obj\Debug\net8.0\DiscountEngine.sourcelink.json
+C:\Users\jfhhd\Source\Repos\DiscountEngine\DiscountEngine\bin\Debug\net8.0\MediatR.dll
+C:\Users\jfhhd\Source\Repos\DiscountEngine\DiscountEngine\bin\Debug\net8.0\MediatR.Contracts.dll
+C:\Users\jfhhd\Source\Repos\DiscountEngine\DiscountEngine\bin\Debug\net8.0\DiscountEngine.DataModel.dll
+C:\Users\jfhhd\Source\Repos\DiscountEngine\DiscountEngine\bin\Debug\net8.0\DiscountEngine.DataModel.pdb

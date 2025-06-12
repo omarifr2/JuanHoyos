@@ -17,5 +17,7 @@ namespace DataModel.DTO
         public decimal OriginalTotal { get; set; }
         public List<DiscountDetail> Discounts { get; set; } = new List<DiscountDetail>();
         public decimal FinalTotal { get; set; }
+        public string Error { get; set; } // Add this property
     }
+
 }

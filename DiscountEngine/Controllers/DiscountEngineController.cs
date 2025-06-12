@@ -1,5 +1,6 @@
 ﻿using DataModel.DTO;
 using DataModel;
+using MediatR;
 using Microsoft.AspNetCore.Mvc;
 using System.Collections.Generic;
 using DataModel.DiscountRules;
@@ -8,59 +9,29 @@ using DataModel.DiscountRules;
 [Route("api/cart")]
 public class CartController : ControllerBase
 {
-    private readonly IDiscountEngine _discountEngineCore;
+    private readonly IMediator _mediator;
 
-    public CartController(IDiscountEngine discountEngineCore)
+   
+
+    public CartController(IMediator mediator)
     {
-        _discountEngineCore = discountEngineCore;
+        _mediator = mediator;
     }
 
     [HttpPost]
-    public IActionResult ApplyDiscounts([FromBody] Cart cart)
+    public async Task<IActionResult> ApplyDiscounts([FromBody] Cart cart)
     {
         if (cart == null || cart.Items.Count == 0)
             return BadRequest("Invalid cart data.");
 
-        decimal originalTotal = cart.GetTotal();
-        decimal discountedTotal = originalTotal;
-        var discounts = new List<DiscountDetail>();
-
-        foreach (var rule in _discountEngineCore.GetDiscounts())
-        {
-            decimal previousTotal = discountedTotal;
-            decimal newTotal = rule.ApplyDiscount(cart);
-            decimal discountAmount = previousTotal - newTotal;
-
-            
-            if (discountAmount > 0)
-            {
-                discounts.Add(new DiscountDetail
-                {
-                    Name = rule.GetType().Name.Replace("Rule", ""),
-                    Amount = discountAmount
-                });
-            }
-
-            discountedTotal = newTotal;
-        }
-
-        var response = new DiscountResponse
-        {
-            OriginalTotal = originalTotal,
-            Discounts = discounts,
-            FinalTotal = discountedTotal
-        };
-
+        var response = await _mediator.Send(new ApplyDiscountsRequest(cart));
         return Ok(response);
     }
 
     [HttpGet("active-discounts")]
-    public IActionResult GetActiveDiscounts()
+    public async Task<IActionResult> GetActiveDiscounts()
     {
-        var discounts = _discountEngineCore.GetDiscounts()
-            .Select(d => new { Name = d.GetType().Name })
-            .ToList();
-
+        var discounts = await _mediator.Send(new GetActiveDiscountsQuery());
         return Ok(discounts);
     }
 

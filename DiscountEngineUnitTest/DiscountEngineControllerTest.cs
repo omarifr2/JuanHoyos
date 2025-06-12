@@ -1,79 +1,87 @@
-﻿using DataModel;
-using DataModel.DiscountRules;
-using DataModel.DTO;
-using Microsoft.AspNetCore.Mvc;
+﻿using Xunit;
 using Moq;
+using System.Collections.Generic;
+using System.Threading;
+using System.Threading.Tasks;
+using Microsoft.AspNetCore.Mvc;
+using MediatR;
+using DataModel.DTO;
+using DataModel;
 
-namespace DiscountEngine.Test
+public class DiscountEngineControllerTest
 {
-    public class DiscountEngineControllerTest
+    private readonly Mock<IMediator> _mockMediator;
+    private readonly CartController _controller;
+
+    public DiscountEngineControllerTest()
     {
-        private readonly Mock<IDiscountEngine> _mockDiscountEngine;
-        private readonly CartController _controller;
+        _mockMediator = new Mock<IMediator>();
+        _controller = new CartController(_mockMediator.Object);
+    }
 
-        public DiscountEngineControllerTest()
+    [Fact]
+    public async Task ApplyDiscounts_ShouldReturnBadRequest_WhenCartIsNull()
+    {
+        var cart = (Cart)null; 
+
+        _mockMediator.Setup(m => m.Send(It.IsAny<ApplyDiscountsRequest>(), CancellationToken.None))
+                     .ReturnsAsync(new DiscountResponse { Error = "Invalid cart data" });
+
+        var result = await _controller.ApplyDiscounts(cart) as BadRequestObjectResult;
+
+        Assert.NotNull(result);
+        Assert.Equal(400, result.StatusCode);
+        Assert.Equal("Invalid cart data", result.Value);
+    }
+    [Fact]
+    public async Task ApplyDiscounts_ShouldApplyDiscounts_Correctly()
+    {
+        var cart = new Cart();
+        var product = new Product("P001", "Laptop", "Electronics", 1000m);
+        cart.AddItem(product, 1);
+
+        var response = new DiscountResponse
         {
-            _mockDiscountEngine = new Mock<IDiscountEngine>();
-            _controller = new CartController(_mockDiscountEngine.Object);
-        }
-
-        [Fact]
-        public void ApplyDiscounts_ShouldReturnBadRequest_WhenCartIsNull()
+            OriginalTotal = 1000m,
+            Discounts = new List<DiscountDetail>
         {
-            var result = _controller.ApplyDiscounts(null) as BadRequestObjectResult;
+            new DiscountDetail { Name = "Electronics10", Amount = 100m }
+        },
+            FinalTotal = 900m
+        };
 
-            Assert.NotNull(result);
-            Assert.Equal(400, result.StatusCode);
-            Assert.Equal("Invalid cart data.", result.Value);
-        }
+        _mockMediator.Setup(m => m.Send(It.IsAny<ApplyDiscountsRequest>(), CancellationToken.None))
+                     .ReturnsAsync(response);  // Ensure Mediator receives an ApplyDiscountsRequest
 
-        [Fact]
-        public void ApplyDiscounts_ShouldReturnBadRequest_WhenCartIsEmpty()
+        var result = await _controller.ApplyDiscounts(cart) as OkObjectResult;  // Pass only Cart
+
+        Assert.NotNull(result);
+        Assert.Equal(200, result.StatusCode);
+        var responseData = result.Value as DiscountResponse;
+        Assert.NotNull(responseData);
+        Assert.Equal(1000m, responseData.OriginalTotal);
+        Assert.Single(responseData.Discounts);
+        Assert.Equal(900m, responseData.FinalTotal);
+    }
+
+    [Fact]
+    public async Task GetActiveDiscounts_ShouldReturnListOfDiscounts()
+    {
+        var request = new GetActiveDiscountsQuery();
+        var expectedDiscounts = new List<DiscountDetail>
         {
-            var cart = new Cart();
-            var result = _controller.ApplyDiscounts(cart) as BadRequestObjectResult;
+            new DiscountDetail { Name = "Books15", Amount = 15m }
+        };
 
-            Assert.NotNull(result);
-            Assert.Equal(400, result.StatusCode);
-            Assert.Equal("Invalid cart data.", result.Value);
-        }
+        _mockMediator.Setup(m => m.Send(request, CancellationToken.None)).ReturnsAsync(expectedDiscounts);
 
-        [Fact]
-        public void ApplyDiscounts_ShouldApplyDiscounts_Correctly()
-        {
-            var cart = new Cart();
-            var product = new Product("P001", "Laptop", "Electronics", 1000m);
-            cart.AddItem(product, 1);
+        var result = await _controller.GetActiveDiscounts() as OkObjectResult;
 
-            var mockDiscount = new Mock<IDiscountRule>();
-            mockDiscount.Setup(d => d.ApplyDiscount(cart)).Returns(900m);
-            _mockDiscountEngine.Setup(e => e.GetDiscounts()).Returns(new List<IDiscountRule> { mockDiscount.Object });
-
-            var result = _controller.ApplyDiscounts(cart) as OkObjectResult;
-            var response = result?.Value as DiscountResponse;
-
-            Assert.NotNull(result);
-            Assert.Equal(200, result.StatusCode);
-            Assert.NotNull(response);
-            Assert.Equal(1000m, response.OriginalTotal);
-            Assert.Single(response.Discounts);
-            Assert.Equal(900m, response.FinalTotal);
-        }
-
-        [Fact]
-        public void GetActiveDiscounts_ShouldReturnListOfDiscounts()
-        {
-            // Create a concrete discount rule instance
-            var discountRule = new PercentageDiscountRule(10, "Books");
-
-            // Ensure the mock returns a non-empty list
-            _mockDiscountEngine.Setup(e => e.GetDiscounts()).Returns(new List<IDiscountRule> { discountRule });
-
-            var result = _controller.GetActiveDiscounts() as OkObjectResult;
-
-            // Validate response is not null
-            Assert.NotNull(result);
-            Assert.Equal(200, result.StatusCode);
-        }
+        Assert.NotNull(result);
+        Assert.Equal(200, result.StatusCode);
+        var responseData = result.Value as List<DiscountDetail>;
+        Assert.NotNull(responseData);
+        Assert.Single(responseData);
+        Assert.Equal("Books15", responseData[0].Name);
     }
 }

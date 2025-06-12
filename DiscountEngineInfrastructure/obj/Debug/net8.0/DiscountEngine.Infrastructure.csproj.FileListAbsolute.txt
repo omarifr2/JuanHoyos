@@ -1,0 +1,12 @@
+C:\Users\jfhhd\Source\Repos\DiscountEngine\DiscountEngineInfrastructure\bin\Debug\net8.0\DiscountEngine.Infrastructure.deps.json
+C:\Users\jfhhd\Source\Repos\DiscountEngine\DiscountEngineInfrastructure\bin\Debug\net8.0\DiscountEngine.Infrastructure.dll
+C:\Users\jfhhd\Source\Repos\DiscountEngine\DiscountEngineInfrastructure\bin\Debug\net8.0\DiscountEngine.Infrastructure.pdb
+C:\Users\jfhhd\Source\Repos\DiscountEngine\DiscountEngineInfrastructure\obj\Debug\net8.0\DiscountEngine.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jfhhd\Source\Repos\DiscountEngine\DiscountEngineInfrastructure\obj\Debug\net8.0\DiscountEngine.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\jfhhd\Source\Repos\DiscountEngine\DiscountEngineInfrastructure\obj\Debug\net8.0\DiscountEngine.Infrastructure.AssemblyInfo.cs
+C:\Users\jfhhd\Source\Repos\DiscountEngine\DiscountEngineInfrastructure\obj\Debug\net8.0\DiscountEngine.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\jfhhd\Source\Repos\DiscountEngine\DiscountEngineInfrastructure\obj\Debug\net8.0\DiscountEngine.Infrastructure.sourcelink.json
+C:\Users\jfhhd\Source\Repos\DiscountEngine\DiscountEngineInfrastructure\obj\Debug\net8.0\DiscountEngine.Infrastructure.dll
+C:\Users\jfhhd\Source\Repos\DiscountEngine\DiscountEngineInfrastructure\obj\Debug\net8.0\refint\DiscountEngine.Infrastructure.dll
+C:\Users\jfhhd\Source\Repos\DiscountEngine\DiscountEngineInfrastructure\obj\Debug\net8.0\DiscountEngine.Infrastructure.pdb
+C:\Users\jfhhd\Source\Repos\DiscountEngine\DiscountEngineInfrastructure\obj\Debug\net8.0\ref\DiscountEngine.Infrastructure.dll

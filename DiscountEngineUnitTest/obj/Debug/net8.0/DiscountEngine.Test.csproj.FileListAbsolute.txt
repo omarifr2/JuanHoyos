@@ -97,9 +97,7 @@ C:\Users\jfhhd\Source\Repos\DiscountEngine\DiscountEngineUnitTest\bin\Debug\net8
 C:\Users\jfhhd\Source\Repos\DiscountEngine\DiscountEngineUnitTest\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
 C:\Users\jfhhd\Source\Repos\DiscountEngine\DiscountEngineUnitTest\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
 C:\Users\jfhhd\Source\Repos\DiscountEngine\DiscountEngineUnitTest\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\jfhhd\Source\Repos\DiscountEngine\DiscountEngineUnitTest\bin\Debug\net8.0\DataModel.dll
 C:\Users\jfhhd\Source\Repos\DiscountEngine\DiscountEngineUnitTest\bin\Debug\net8.0\DiscountEngine.dll
-C:\Users\jfhhd\Source\Repos\DiscountEngine\DiscountEngineUnitTest\bin\Debug\net8.0\DataModel.pdb
 C:\Users\jfhhd\Source\Repos\DiscountEngine\DiscountEngineUnitTest\bin\Debug\net8.0\DiscountEngine.pdb
 C:\Users\jfhhd\Source\Repos\DiscountEngine\DiscountEngineUnitTest\obj\Debug\net8.0\DiscountEngine.Test.csproj.AssemblyReference.cache
 C:\Users\jfhhd\Source\Repos\DiscountEngine\DiscountEngineUnitTest\obj\Debug\net8.0\DiscountEngine.Test.GeneratedMSBuildEditorConfig.editorconfig
@@ -115,3 +113,7 @@ C:\Users\jfhhd\Source\Repos\DiscountEngine\DiscountEngineUnitTest\obj\Debug\net8
 C:\Users\jfhhd\Source\Repos\DiscountEngine\DiscountEngineUnitTest\obj\Debug\net8.0\ref\DiscountEngine.Test.dll
 C:\Users\jfhhd\Source\Repos\DiscountEngine\DiscountEngineUnitTest\bin\Debug\net8.0\Castle.Core.dll
 C:\Users\jfhhd\Source\Repos\DiscountEngine\DiscountEngineUnitTest\bin\Debug\net8.0\Moq.dll
+C:\Users\jfhhd\Source\Repos\DiscountEngine\DiscountEngineUnitTest\bin\Debug\net8.0\MediatR.dll
+C:\Users\jfhhd\Source\Repos\DiscountEngine\DiscountEngineUnitTest\bin\Debug\net8.0\MediatR.Contracts.dll
+C:\Users\jfhhd\Source\Repos\DiscountEngine\DiscountEngineUnitTest\bin\Debug\net8.0\DiscountEngine.DataModel.dll
+C:\Users\jfhhd\Source\Repos\DiscountEngine\DiscountEngineUnitTest\bin\Debug\net8.0\DiscountEngine.DataModel.pdb

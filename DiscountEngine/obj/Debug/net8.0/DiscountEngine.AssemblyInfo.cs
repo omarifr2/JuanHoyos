@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DiscountEngine")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ecb4cdf3bd7833a6e93915ebd32f4a96f5011f0f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ec158f2b3ca600db7c1ef1ef2b060bedf6da0bc6")]
 [assembly: System.Reflection.AssemblyProductAttribute("DiscountEngine")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DiscountEngine")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,5 +1,7 @@
 using DataModel;
 using DataModel.DiscountRules;
+using Microsoft.Win32;
+using System.Reflection;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -32,6 +34,10 @@ discountRepo.AddDiscount(new CategoryDiscountRule("Books", 15));
 // Register Discount Repository and Engine as singletons
 builder.Services.AddSingleton(discountRepo);
 builder.Services.AddSingleton<DiscountEngineCore>();
+//Register MediatR and Handlers
+builder.Services.AddMediatR(cfg => cfg.RegisterServicesFromAssembly(Assembly.GetExecutingAssembly()));
+
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

@@ -4,12 +4,12 @@
     "C:\\Users\\jfhhd\\Source\\Repos\\DiscountEngine\\DiscountEngineUnitTest\\DiscountEngine.Test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jfhhd\\Source\\Repos\\DiscountEngine\\DataModel\\DataModel.csproj": {
+    "C:\\Users\\jfhhd\\Source\\Repos\\DiscountEngine\\DataModel\\DiscountEngine.DataModel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jfhhd\\Source\\Repos\\DiscountEngine\\DataModel\\DataModel.csproj",
-        "projectName": "DataModel",
-        "projectPath": "C:\\Users\\jfhhd\\Source\\Repos\\DiscountEngine\\DataModel\\DataModel.csproj",
+        "projectUniqueName": "C:\\Users\\jfhhd\\Source\\Repos\\DiscountEngine\\DataModel\\DiscountEngine.DataModel.csproj",
+        "projectName": "DiscountEngine.DataModel",
+        "projectPath": "C:\\Users\\jfhhd\\Source\\Repos\\DiscountEngine\\DataModel\\DiscountEngine.DataModel.csproj",
         "packagesPath": "C:\\Users\\jfhhd\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\jfhhd\\Source\\Repos\\DiscountEngine\\DataModel\\obj\\",
         "projectStyle": "PackageReference",
@@ -49,6 +49,16 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.5.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Abstractions": {
+              "target": "Package",
+              "version": "[2.3.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -97,8 +107,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\jfhhd\\Source\\Repos\\DiscountEngine\\DataModel\\DataModel.csproj": {
-                "projectPath": "C:\\Users\\jfhhd\\Source\\Repos\\DiscountEngine\\DataModel\\DataModel.csproj"
+              "C:\\Users\\jfhhd\\Source\\Repos\\DiscountEngine\\DataModel\\DiscountEngine.DataModel.csproj": {
+                "projectPath": "C:\\Users\\jfhhd\\Source\\Repos\\DiscountEngine\\DataModel\\DiscountEngine.DataModel.csproj"
               },
               "C:\\Users\\jfhhd\\Source\\Repos\\DiscountEngine\\DiscountEngine\\DiscountEngine.csproj": {
                 "projectPath": "C:\\Users\\jfhhd\\Source\\Repos\\DiscountEngine\\DiscountEngine\\DiscountEngine.csproj"
@@ -191,8 +201,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\jfhhd\\Source\\Repos\\DiscountEngine\\DataModel\\DataModel.csproj": {
-                "projectPath": "C:\\Users\\jfhhd\\Source\\Repos\\DiscountEngine\\DataModel\\DataModel.csproj"
+              "C:\\Users\\jfhhd\\Source\\Repos\\DiscountEngine\\DataModel\\DiscountEngine.DataModel.csproj": {
+                "projectPath": "C:\\Users\\jfhhd\\Source\\Repos\\DiscountEngine\\DataModel\\DiscountEngine.DataModel.csproj"
               }
             }
           }
@@ -213,6 +223,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.5.0, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.6.2, )"
